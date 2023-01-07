@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#I'm almos 16 years old, I'm from Piedmont, Italy.
+I'm currently working at aleOS, an O.S. on Cosmos.
+I'm looking to macOS 
