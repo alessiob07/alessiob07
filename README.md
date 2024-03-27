@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there 👋
 
 <!--
 **alessiob07/alessiob07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#I'm almos 16 years old, I'm from Piedmont, Italy.
-I'm currently working at aleOS, an O.S. on Cosmos.
-I'm looking to macOS 
+# I'm Alessio
+- 🏫 I'm currently learning at 'https://www.itdavinci.it/' tecnichan istitute, doing ICT specialization.
+- 🌍 I'm from Northen Italy.
+- 🤰 I'm born on 28th Jan 2007.
+- 💻 My current project is aleOS, an O.S. based on Cosmos (www.gocosmos.org) an OS Framework kit on C# language.
+- 📫 You can reach me on Telegram (raccomented), (LINK: https://t.me/alessiob_b) or on Discord (USERNAME: alessiob_b_)
